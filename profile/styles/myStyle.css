@@ -1,0 +1,34 @@
+body 
+{
+    direction:rtl; text-align:center;
+    background-image:url("../images/background.jpg");
+        }
+#myName {
+    font-family: Gisha;
+    color: orangered;
+    font-weight: bold;
+    font-size: 32pt;
+    text-align: center;
+}
+#helly:hover{
+background-image:url(../images/monkey.png);
+
+}
+#container {
+    font-family:Gisha;
+    font-size:14pt;
+    text-align:center;
+    color:black;
+}
+p:nth-child(2){
+    color:blue;
+    font-family:Gisha;
+    font-size:14pt;
+    text-align:center;
+}
+p:last-child{
+    color:coral;
+   font-family:Gisha;
+    text-align:center;
+    font-size:19pt;
+}
